@@ -1,6 +1,6 @@
 ## Hi there, The Madpirate... 👋
 
-<!--
+
 **the-madpirate/the-madpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: "നിങ്ങളുടെ സൗകര്യത്തിനായി സമയം നിൽക്കില്ല"...
 - ⚡ Fun fact: " Time doesn't stop for your convenience". . . The Madpirate.
--->
+
